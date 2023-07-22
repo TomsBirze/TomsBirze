@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Tom 👋
 
-<!--
-**TomsBirze/TomsBirze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a JavaScript-oriented programmer and always open to learning more.
 
-Here are some ideas to get you started:
+👔 [LinkedIn](https://linkedin.com/in/tomsbirze) **|**  
+📫 How to reach me: +371 29540041 **|**  
+📧 My email: birzetoms21@gmail.com **|**  
+⚡ Fun fact: I love basketball and video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CODELEX website for companies.
+<a href="https://www.codelex.io/en/partners">
+  <img src="https://yt3.ggpht.com/0l2xQdIct2Fm8RD8axpIO_6c0i3ps-tNccxBTUvOYyFkUO9kMQrB0PSTR9mD6a3Bv9nksI4X5g=s900-c-k-c0x00ffffff-no-rj" alt="Codelex" width="150" height="150">
+</a> 
