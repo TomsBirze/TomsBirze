@@ -1,6 +1,6 @@
 ### Hi, I'm Tom 👋
 
-## I'm a JavaScript-oriented programmer and always open to learning more.
+## As a JavaScript-oriented programmer, I have experience in version control using GIT. I explored Object-Oriented Programming and the Spring Framework to build robust applications. Unit Testing is a crucial part of my development process for ensuring code quality, and I am skilled in using JPA and SQL for effective database management.
 
 👔 [LinkedIn](https://linkedin.com/in/tomsbirze) **|**  
 📫 How to reach me: +371 29540041 **|**  
